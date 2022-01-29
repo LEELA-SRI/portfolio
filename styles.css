@@ -1,0 +1,135 @@
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: "sacramento", cursive;
+  font-size: 5.6em;
+  color: #66bfbf;
+}
+h3 {
+  font-family: "Montserrat", sans-serif;
+  color: #11999e;
+}
+.footer-link {
+  color: #11999e;
+  text-decoration: none;
+  padding: 10px;
+  font-family: "Montserrat", sans-serif;
+
+}
+a:hover{
+  color:#eaf6f6
+}
+
+body {
+  margin: 0;
+  text-align: center;
+}
+.top-container {
+  background-color: #e4f9f5;
+  position: relative;
+  padding-top: 100px;
+  margin-bottom: 50px;
+  
+}
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+ 
+}
+.profile{
+  width:50%;
+  margin: 100px auto
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 15%;
+  top: 400px;
+}
+.top-cloud {
+  position: absolute;
+  top: 50px;
+  right: 15%;
+}
+h2 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 2.5rem;
+  color: #66bfbf;
+  font-weight: normal;
+}
+.math,
+.python {
+  width: 150px;
+  height: 150px;
+}
+.python {
+  float: left;
+  padding-right: 30px;
+}
+.math {
+  float: right;
+  padding-left: 30px;
+}
+p {
+  color: #40514e;
+  line-height: 2;
+}
+hr {
+  border-top: 8px dotted #eaf6f6;
+  border-bottom: none;
+  border-left: none;
+  border-right: none;
+  width: 75px;
+  margin: 100px auto;
+}
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: "Montserrat", sans-serif;
+  color: #ffffff;
+  margin-top: 50px;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+.bottom-container {
+  background-color: #66bfbf;
+
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+.middle-container {
+  margin-bottom: 70px;
+ 
+}
+.bottom-container > p {
+  color: #eaf6f6;
+  font-size:0.75rem;
+
+}
+.inf{
+  width:40%;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top: 40px;
+}
+.mountain{
+  width:auto;
+}
